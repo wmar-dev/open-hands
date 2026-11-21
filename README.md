@@ -152,3 +152,7 @@ grip_pose = [[50, 55, 40], [45, 60, 45], [55, 60, 45], [60, 65, 45]];
 
 hand_assembly(grip_pose, [70, 45]);   // second argument: thumb joint angles
 ```
+
+## License
+
+Released under the [MIT License](LICENSE).
